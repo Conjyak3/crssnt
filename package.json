@@ -1,6 +1,6 @@
 {
-  "name": "crssnt name",
-  "description": "crssnt description",
+  "name": "crssnt-name",
+  "description": "crssnt-description",
   "scripts": {
     "build": "",
     "serve": "firebase emulators:start --only functions",
